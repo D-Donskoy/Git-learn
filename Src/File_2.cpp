@@ -5,7 +5,8 @@
  *      Author: ldp
  */
 
-// Добавлена строка 1 в File_2.cpp
-// Добавлена строка 2 в File_2.cpp
+// Row 1 have been added to File_2.cpp
+// Row 2 have been added to File_2.cpp
+
 
 

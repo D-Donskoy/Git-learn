@@ -8,4 +8,4 @@
 
 
 
-// Добавлена строка 1
+// Row 1 have been added to File_1.cpp
