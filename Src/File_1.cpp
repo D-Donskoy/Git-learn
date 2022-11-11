@@ -7,4 +7,3 @@
 
 // Add row 1 to File_1.cpp
 // Add row 2 to File_1.cpp
-/ Row 1 have been added to File_1.cpp
