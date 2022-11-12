@@ -1,0 +1,5 @@
+$ cat .gitignore
+readme.txt
+github_token
+*~
+.settings/
